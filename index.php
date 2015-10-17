@@ -7,3 +7,4 @@
  */
 
 echo "hello";
+echo "hello ,this is a phpstorm github mixed test file";
